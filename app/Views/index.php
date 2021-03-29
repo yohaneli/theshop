@@ -31,17 +31,6 @@
 											<img alt="Porto" width="100" height="48" data-sticky-width="82" data-sticky-height="40" data-sticky-top="84" src="<?php echo base_url('images/baseimages/logo-default-slim.png') ; ?>">
 										</a>
 									</div>
-									<div class="header-nav-features header-nav-features-no-border col-lg-5 col-xl-6 px-0 ml-0">
-										<div class="header-nav-feature pr-lg-4 pr-xl-5 mr-4">
-											<form role="search" action="page-search-results.html" method="get">
-												<div class="search-with-select">
-													<a href="#" class="mobile-search-toggle-btn mr-2" data-porto-toggle-class="open">
-														<i class="icons icon-magnifier text-color-dark text-color-hover-primary"></i>
-													</a>
-												</div>
-											</form>
-										</div>
-									</div>
 									<div class="d-flex col-auto col-lg-2 pr-0 pl-0 pl-xl-3">
 										<ul class="header-extra-info">
 											<li class="ml-0 ml-xl-4">
